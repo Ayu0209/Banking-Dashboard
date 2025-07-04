@@ -86,7 +86,7 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 ### ✅ Page 1: Home  
 > Overview of the banking data with summary statistics and key visuals.  
 
-![Preview](https://github.com/Ayu0209/Banking-Dashboard-Data-Analytics/blob/main/POWER_BI/page1_home.png)
+![Home](POWER_BI/page1_home.png)
 
 ---
 
