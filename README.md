@@ -83,28 +83,29 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 - Building multi-page dashboards for presentation
 
 ---
-### ✅ Page 1: Home  
-> Overview of the banking data with summary statistics and key visuals.  
+## 📊 Dashboard Previews
 
-![Home](POWER_BI/page1_home.png)
+### 🏠 Page 1: Home Page
+> Overview of the banking data with summary statistics and key visuals.  
+![Home Page](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page1_home.png)
 
 ---
 
-### ✅ Page 2: Loan Analysis  
+### 💳 Page 2: Loan Analysis  
 > Insights into loan distribution, types, and customer segments.  
 
-![Loan Analysis](POWER_BI/page2_loan_analysis.png)
+![Loan Analysis](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page2_loan_analysis.png)
 
 ---
 
-### ✅ Page 3: Deposit Analysis  
+### 💰 Page 3: Deposit Analysis  
 > Breakdown of account balances, deposit types, and correlation patterns.  
 
-![Deposit Analysis](POWER_BI/page3_deposit_analysis.png)
+![Deposit Analysis](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page3_deposit_analysis.png)
 
 ---
 
-### ✅ Page 4: Summary  
+### 📋 Page 4: Summary  
 > Final insights from EDA, including correlations and demographic trends.  
 
-![Summary](POWER_BI/page4_summary.png)
+![Summary](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page4_summary.png)
