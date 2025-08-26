@@ -22,7 +22,7 @@ _This project focuses on building an interactive **Banking Dashboard** using Pow
 
 ---
 
-## Business Problem 
+## 🎯 Business Problem  
 
 In modern banking, understanding customer financial behavior across multiple accounts—like deposits, loans, and savings—is vital for improving service delivery, risk management, and profitability. This project builds a comprehensive Power BI dashboard to visualize banking metrics and customer segments, enabling data-driven strategy and informed decision-making.
 
