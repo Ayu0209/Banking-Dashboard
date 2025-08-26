@@ -6,6 +6,20 @@ This project focuses on building an interactive **Banking Dashboard** using Powe
 
 ## 📑 Table of Contents  
 
+1. [Business Problem](#business-problem)  
+2. [Dataset Information](#dataset-information)  
+3. [Tools & Technologies](#tools--technologies)  
+4. [Project Structure](#project-structure)  
+5. [Steps Involved](#steps-involved)  
+6. [Dashboard Pages (Power BI)](#dashboard-pages-power-bi)  
+   - [Page 1: Home Page](#page-1-home-page)  
+   - [Page 2: Loan Analysis](#page-2-loan-analysis)  
+   - [Page 3: Deposit Analysis](#page-3-deposit-analysis)  
+   - [Page 4: Summary](#page-4-summary)  
+7. [Results & Conclusion](#results--conclusion)  
+8. [Future Work](#future-work)  
+9. [Author & Contact](#author--contact)  
+
 ---
 
 ## Business Problem 
@@ -29,7 +43,7 @@ In modern banking, understanding customer financial behavior across multiple acc
 
 ---
 
-## Project Structure  
+## ## 📁 Project Structure  
 
 ```
 Amazon-Sales-Report/
