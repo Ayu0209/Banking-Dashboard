@@ -4,9 +4,13 @@ This project focuses on building an interactive **Banking Dashboard** using Powe
 
 ---
 
-## 📌 Project Workflow
+## 📑 Table of Contents  
 
-Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI Dashboard
+---
+
+## Business Problem 
+
+In modern banking, understanding customer financial behavior across multiple accounts—like deposits, loans, and savings—is vital for improving service delivery, risk management, and profitability. This project builds a comprehensive Power BI dashboard to visualize banking metrics and customer segments, enabling data-driven strategy and informed decision-making.
 
 ---
 
@@ -15,6 +19,40 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 - **Number of columns**: 24
 - **Stored in**: MySQL
 
+---
+
+## 🚀 Tools & Technologies
+
+- **Database**: MySQL
+- **Visualization**: Power BI
+- **Languages**: SQL, DAX (in Power BI)
+
+---
+
+## Project Structure  
+
+```
+Amazon-Sales-Report/
+│
+│── 📂 data/                         
+│   │── Banking.csv      # Original dataset
+│
+│── 📂 eda/              # Jupyter notebooks for EDA & analysis
+│   │── BankEDA.ipynb
+│
+│── 📂 dashboard/                 # Power BI dashboard
+│   │── Banking Dashboard.pbix
+│
+│── 📂 visuals/                   # Exported plots, charts, and screenshots
+│   │── page1_home.png
+│   │── page2_loan_analysis.png
+│   │── page3_deposit_analysis.png
+│   │── page4_summary.png
+│
+│── 📄 README.md                 # Project overview, business problem, insights,etc
+│── 📄 .gitignore                 # Ignore unnecessary files
+
+```
 ---
 
 ## 🔧 Steps Involved
@@ -67,14 +105,6 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 
 ---
 
-## 🚀 Tools & Technologies
-
-- **Database**: MySQL
-- **Visualization**: Power BI
-- **Languages**: SQL, DAX (in Power BI)
-
----
-
 ## 🧠 Learnings
 
 - Data wrangling using SQL
@@ -109,3 +139,27 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 > Final insights from EDA, including correlations and demographic trends.  
 
 ![Summary](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page4_summary.png)
+
+---
+
+## ✅ Results & Conclusion
+After conducting data cleaning, exploratory data analysis (EDA), and building a Power BI dashboard, the project delivers clear and actionable insights into banking customer behaviors:
+- Customers with high balances across one account type (like savings) often hold substantial funds in other accounts—indicating consolidated wealth patterns.
+- The dashboard facilitates quick comparisons of loans, deposits, account balances, and estimated income across demographics.
+- Users gain clarity on financial trends, enabling strategic decisions by banks in areas like cross-sell, retention, and credit management.
+
+---
+
+## 🔮 Future Work  
+
+- Real-time data integration: Set up live connections to MySQL or other data sources for automatic dashboard updates.
+- Advanced analytics: Add predictive analytics for detecting customer churn or detecting credit risk.
+- Enhanced visual storytelling: Improve dashboard navigation with drill-throughs, tooltips, and rich visuals.
+- Scalability: Deploy the dashboard on Power BI Service for team-wide sharing or embed into internal portals.
+  
+---
+
+## Author & Contact  
+👩‍💻 **Ayushi Kedia**    
+📧 Email: ayushikediahm@gmail.com    
+🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-kedia-81bb7520b/)  
