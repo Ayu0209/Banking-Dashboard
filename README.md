@@ -103,7 +103,7 @@ Amazon-Sales-Report/
 3. **Deposit Analysis**
 4. **Summary**
 
-# 📊 Dashboard Previews
+#### 📊 Dashboard Previews
 
 ### 🏠 Page 1: Home Page
 > Overview of the banking data with summary statistics and key visuals.  
