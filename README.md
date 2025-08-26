@@ -37,10 +37,10 @@ Amazon-Sales-Report/
 │── 📂 data/                         
 │   │── Banking.csv      # Original dataset
 │
-│── 📂 eda/              # Jupyter notebooks for EDA & analysis
+│── 📂 EDA/              # Jupyter notebooks for EDA & analysis
 │   │── BankEDA.ipynb
 │
-│── 📂 dashboard/                 # Power BI dashboard
+│── 📂 powerbi/                 # Power BI dashboard
 │   │── Banking Dashboard.pbix
 │
 │── 📂 visuals/                   # Exported plots, charts, and screenshots
