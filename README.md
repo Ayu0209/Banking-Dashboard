@@ -43,7 +43,7 @@ In modern banking, understanding customer financial behavior across multiple acc
 
 ---
 
-## ## 📁 Project Structure  
+## 📁 Project Structure  
 
 ```
 Amazon-Sales-Report/
