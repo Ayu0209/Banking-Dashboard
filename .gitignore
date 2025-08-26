@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Data files (local/private)
+*.csv
+*.xlsx
+*.xls
+
+# Power BI files
+*.pbix
