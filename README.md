@@ -121,28 +121,28 @@ Amazon-Sales-Report/
 
 ### 🏠 Page 1: Home Page
 > Overview of the banking data with summary statistics and key visuals.  
-![Home Page](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page1_home.png)
+![Home Page](https://github.com/Ayu0209/Banking-Dashboard/blob/main/visuals/page1_home.png)
 
 ---
 
 ### 💳 Page 2: Loan Analysis  
 > Insights into loan distribution, types, and customer segments.  
 
-![Loan Analysis](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page2_loan_analysis.png)
+![Loan Analysis](https://github.com/Ayu0209/Banking-Dashboard/blob/main/visuals/page2_loan_analysis.png)
 
 ---
 
 ### 💰 Page 3: Deposit Analysis  
 > Breakdown of account balances, deposit types, and correlation patterns.  
 
-![Deposit Analysis](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page3_deposit_analysis.png)
+![Deposit Analysis](https://github.com/Ayu0209/Banking-Dashboard/blob/main/visuals/page3_deposit_analysis.png)
 
 ---
 
 ### 📋 Page 4: Summary  
 > Final insights from EDA, including correlations and demographic trends.  
 
-![Summary](https://raw.githubusercontent.com/Ayu0209/Banking-Dashboard-Data-Analytics/main/POWER_BI/page4_summary.png)
+![Summary](https://github.com/Ayu0209/Banking-Dashboard/blob/main/visuals/page4_summary.png)
 
 ---
 
@@ -163,7 +163,7 @@ After conducting data cleaning, exploratory data analysis (EDA), and building a 
   
 ---
 
-## Author & Contact  
+## 👤 Author & Contact   
 👩‍💻 **Ayushi Kedia**    
 📧 Email: ayushikediahm@gmail.com    
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-kedia-81bb7520b/)  
