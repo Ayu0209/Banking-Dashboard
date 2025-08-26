@@ -103,17 +103,7 @@ Amazon-Sales-Report/
 3. **Deposit Analysis**
 4. **Summary**
 
----
-
-## 🧠 Learnings
-
-- Data wrangling using SQL
-- Power BI conditional columns
-- Deriving insights through EDA
-- Building multi-page dashboards for presentation
-
----
-## 📊 Dashboard Previews
+# 📊 Dashboard Previews
 
 ### 🏠 Page 1: Home Page
 > Overview of the banking data with summary statistics and key visuals.  
